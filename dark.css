@@ -563,8 +563,3 @@ footer .footer-top-container .con h3{
     transition: 0.4s;
 
 }
-
-#b:focus::after{
-   left: 0;
-    
-}
